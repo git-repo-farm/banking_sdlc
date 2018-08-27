@@ -1,0 +1,115 @@
+The Banking project - 0.0
+
+
+This documents contains features, and specifications about our banking web site.
+Technologies and tools to deliver an E2E final product following the SDLC best practices
+and STLC procedures. The goal is to render a fully functional product.
+
+Project lenght: 6 MONTHS (or less).
+Budget: Open source technologies.
+sprint lenght: Every sunday night 9 pm Eastern time via SLACK or SKYPE or phone conference.
+
+
+~ THE TEAM
+
+Developers, testers and security analysts.
+
+Oscar Pacheco (Project Manager, Full Stack Dev)
+
+Carloui Nievera (Back End Dev)
+
+April Hodo (Front End Dev)
+
+Mohariel Rosario (Front End Dev)
+
+Erick Guerra (Quality Assurance Tester)
+
+Anthony HIll (Security Analyst & Tester)
+
+Younathan Gobezai (Security Analyst & Tester)
+
+
+~ THE  DEV TECHNOLOGIES
+
+Eclipse EE for java developers (back end), IntelliJ Idea (front or back end, your preference)
+OR any text editor of your choice, TOMCAT servlet, kali linux VIRTUAL MACHINE INSTANCE (for penetration testing)
+VirtualBox , JDBC, POSTGRES DB, JAVA 10, POSTMAN client testing, SPRINGBOOT framework,  
+
+JAVA 10, HTML CSS ANGULAR JS
+
+~ THE COLLABORATION TECHNOLOGIES
+
+JIRA QC, SLACK, GIThub 
+
+
+..... and others TBD by team.
+
+
+Main Ojbective
+
+1. Fully functional site with buttons and minimal links. 
+		a. To be deployed and configured on a unix server or linux server from home, or deployed using a vendor.
+			ej; AWS stack, etc etc
+2. Single page using angular js.
+
+	a. single page in english with interfaces such as Sign in box, password box, one link for "Espanol"
+		after clicking on "espanol button" the entire single page switches to spanish. 
+		It should connect to a DB rendering information about the account.
+	b. second part "about bank history", on the same page.. history about the bank and a basic description. of the site.
+		and the information of the entire team who made this project possible.
+	c. On the same page incorporate object applications such as a location api, messenger / email contact api module
+		using OOP (object oriented languages) and UML diagrams for structure. 
+		
+
+		C part 2. 
+
+		focused language : JAVA 10 or Python.
+
+		IDE environment : Eclipse EE for java developers (dev package)
+
+		IDE environment for testing : Eclipse for java developers (test package) 
+
+		Spring Framework : POSTgress, jdbc, hibernate, API (for interaction modules Server 2 Client)
+
+		Server : Unix or linux or virtualization vm's, DevOps configuration pipelines, MAVEN, ANT, Salt, Docker etc.
+
+		Servlet: Tomcat
+
+		
+		C Part 3.
+
+		Test suite: Test cases, test plans.
+
+		Security: Create the plan on what to test, upload documents to the project on github, work with testers
+					to provide test case scenarios and create template in excell format and UPLOAD.
+
+		Test Technologies: Selenium webdriver framework. (AFTER COMPLETION OF PROJECT)
+
+		Penetration testing: Linux KALI virtualization instance. (after completion of project)
+
+
+
+
+
+THIS IS THE RAW VERSION OF THE BRD - IT WILL BE INTEGRATED IN JIRA SOON.... :)
+
+  If you have questions about this BRD from your department use slack to communicate.
+
+Devs UML.XML file is uploaded and ready to start implementing.
+
+LOGIN.MODULE.XML
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
